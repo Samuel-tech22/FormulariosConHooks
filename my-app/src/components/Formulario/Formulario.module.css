@@ -1,5 +1,5 @@
 .formulario {
-    width: 300px;
+    width: 400px;
     margin: 48px auto;
     display: flex;
     flex-direction: column;
@@ -29,4 +29,8 @@
 .inputElement>input {
     flex: 2;
     height: 24px;
+}
+
+.errorMessage {
+    color: #ce1b1b;
 }
